@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">AgroGuard</string>
+    <string name="my_profile">My Profile</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="diagnosis_history">Diagnosis History</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="change_language">Change Language</string>
+    <string name="english">English</string>
+    <string name="urdu">Urdu</string>
+    <string name="support">Support</string>
+    <string name="help_faq">Help &amp; FAQ</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="home">Home</string>
+    <string name="diagnose">Diagnose</string>
+    <string name="assistant">Assistant</string>
+    <string name="profile">Profile</string>
+    <string name="agroguard">AGROGUARD</string>
+    <string name="hello">Hello </string>
+    <string name="welcome_new">Welcome to AgroGuard</string>
+    <string name="welcome_back">Welcome back to AgroGuard</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="scan_crop">Scan Crop</string>
+    <string name="detect_disease">Detect disease</string>
+    <string name="agrobot">AgroBot</string>
+    <string name="ai_assistant">AI assistant</string>
+    <string name="location_label">Location: %1$s</string>
+    <string name="checking_weather">Checking local weather…</string>
+    <string name="agrobot_name">Agrobot</string>
+    <string name="ask_agrobot_placeholder">Ask Agrobot about plants...</string>
+    <string name="voice_prompt">Speak now</string>
+    <string name="hello_greeting">Hello %1$s! I am Agrobot. How can I help you?</string>
+    <string name="system_instruction">You are an expert agricultural assistant. Always reply in clear, simple English. Keep answers brief and easy for farmers to understand.</string>
+    <string name="weather_clouds">Clouds</string>
+    <string name="weather_clear">Clear</string>
+    <string name="weather_rain">Rain</string>
+    <string name="weather_error">Error</string>
+    <string name="weather_updating">Updating…</string>
+
+    <!-- Home Screen -->
+    <string name="good_morning">Good morning,</string>
+    <string name="good_afternoon">Good afternoon,</string>
+    <string name="good_evening">Good evening,</string>
+    <string name="welcome_back_text">Welcome back! </string>
+    <string name="home_subtitle">Let\'s keep your crops healthy and your farm thriving.</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind</string>
+    <string name="agro_news">Agro News</string>
+    <string name="latest_updates">Latest updates</string>
+    <string name="agro_tools">Agro Tools</string>
+    <string name="useful_tools">Useful tools</string>
+    <string name="crop_health_overview">Crop Health Overview</string>
+    <string name="check_health_status">Check health status</string>
+    <string name="check_now">Check Now ></string>
+
+    <!-- Diagnose Screen -->
+    <string name="diagnose_crop">Diagnose Crop</string>
+    <string name="diagnose_subtitle">Select your crop and take a clear photo to detect disease and get expert advice.</string>
+    <string name="select_your_crop">Select Your Crop</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="upload_subtitle">Choose an image from gallery or capture a new one for accurate diagnosis.</string>
+    <string name="gallery">Gallery</string>
+    <string name="pick_from_storage">Pick from storage</string>
+    <string name="capture">Capture</string>
+    <string name="use_your_camera">Use your camera</string>
+    <string name="crop_tomato">Mango</string>
+    <string name="crop_orange">Orange</string>
+    <string name="crop_potato">Potato</string>
+    <string name="crop_corn">Corn</string>
+    <string name="crop_rice">Lemon</string>
+    <string name="crop_apple">Apple</string>
+
+    <!-- Assistant Screen -->
+    <string name="smart_assistant">Your Smart Plant Assistant</string>
+    <string name="hello_emoji">Hello! 👋</string>
+
+    <!-- Profile Screen -->
+    <string name="manage_profile_subtitle">Manage your account and preferences</string>
+    <string name="edit_profile_subtitle">Update your personal information</string>
+    <string name="language_subtitle">Choose your preferred language</string>
+    <string name="faq_subtitle_profile">Find answers to common questions</string>
+    <string name="signout_subtitle">Sign out from your account</string>
+
+    <!-- FAQ Screen -->
+    <string name="common_diseases_faq">Common Crop Diseases FAQ</string>
+    <string name="faq_subtitle">Find answers to frequently asked questions about common plant diseases and their management.</string>
+    <!-- Auth Screens -->
+    <string name="welcome">Welcome </string>
+    <string name="back">Back!</string>
+    <string name="create">Create </string>
+    <string name="your_account">Your Account</string>
+    <string name="login_subtitle">Log in to continue your session and keep your plants healthy.</string>
+    <string name="signup_subtitle">Join AgroGuard and take the best care of your plants.</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="or">or</string>
+    <string name="or_continue">or continue with</string>
+    <string name="continue_google">Continue with Google</string>
+    <string name="signup_google">Sign up with Google</string>
+    <string name="dont_have_account">Don\'t have an account? </string>
+    <string name="sign_up_arrow">Sign Up →</string>
+    <string name="create_account">Create Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="already_have_account">Already have an account? </string>
+    <string name="login_arrow">Login →</string>
+
+    <!-- Result Screen -->
+    <string name="diagnosis_result">Diagnosis Result</string>
+    <string name="analyzing_image">Analyzing Image...</string>
+    <string name="treatment_advice">TREATMENT ADVICE</string>
+    <string name="fetching_advice">Fetching expert advice...</string>
+    <string name="confidence_score">Confidence Score</string>
+    <string name="healthy_leaf">This leaf is healthy. No treatment is required.</string>
+    <string name="analysis_failed">Analysis Failed</string>
+    <string name="upload_clear_image">Please upload a clear image of plant for the results</string>
+</resources>

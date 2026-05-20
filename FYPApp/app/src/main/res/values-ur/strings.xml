@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">ایگرو گارڈ</string>
+    <string name="my_profile">میری پروفائل</string>
+    <string name="account_settings">اکاؤنٹ کی ترتیبات</string>
+    <string name="diagnosis_history">تشخیص کی تاریخ</string>
+    <string name="edit_profile">پروفائل میں ترمیم کریں</string>
+    <string name="change_language">زبان تبدیل کریں</string>
+    <string name="english">انگریزی</string>
+    <string name="urdu">اردو</string>
+    <string name="support">سپورٹ</string>
+    <string name="help_faq">مدد اور اکثر پوچھے گئے سوالات</string>
+    <string name="sign_out">سائن آؤٹ</string>
+    <string name="home">ہوم</string>
+    <string name="diagnose">تشخیص</string>
+    <string name="assistant">اسسٹنٹ</string>
+    <string name="profile">پروفائل</string>
+    <string name="agroguard">ایگرو گارڈ</string>
+    <string name="hello">ہیلو </string>
+    <string name="welcome_new">ایگرو گارڈ میں خوش آمدید</string>
+    <string name="welcome_back">ایگرو گارڈ میں خوش آمدید</string>
+    <string name="quick_actions">فوری اقدامات</string>
+    <string name="scan_crop">فصل کو اسکین کریں</string>
+    <string name="detect_disease">بیماری کا پتہ لگائیں</string>
+    <string name="agrobot">ایگرو بوٹ</string>
+    <string name="ai_assistant">مصنوعی ذہانت کا معاون</string>
+    <string name="location_label">مقام: %1$s</string>
+    <string name="checking_weather">مقامی موسم چیک کیا جا رہا ہے…</string>
+    <string name="agrobot_name">ایگرو بوٹ</string>
+    <string name="ask_agrobot_placeholder">ایگرو بوٹ سے پودوں کے بارے میں پوچھیں…</string>
+    <string name="voice_prompt">بولیے</string>
+    <string name="hello_greeting">ہیلو %1$s! میں ایگرو بوٹ ہوں۔ میں آپ کی کیا مدد کر سکتا ہوں؟</string>
+    <string name="system_instruction">آپ ایک ماہر زرعی معاون ہیں۔ ہمیشہ اردو رسم الخط (نستعلیق) کا استعمال کرتے ہوئے واضح اور سادہ اردو میں جواب دیں۔ جب تک صارف خاص طور پر نہ کہے، رومن اردو کا استعمال نہ کریں۔ جوابات کو مختصر اور کسانوں کے لیے سمجھنے میں آسان رکھیں۔</string>
+    <string name="weather_clouds">بادل</string>
+    <string name="weather_clear">صاف موسم</string>
+    <string name="weather_rain">بارش</string>
+    <string name="weather_error">خرابی</string>
+    <string name="weather_updating">اپ ڈیٹ ہو رہا ہے…</string>
+
+    <!-- Home Screen -->
+    <string name="good_morning">صبح بخیر،</string>
+    <string name="good_afternoon">سہ پہر بخیر،</string>
+    <string name="good_evening">شام بخیر،</string>
+    <string name="welcome_back_text">خوش آمدید! </string>
+    <string name="home_subtitle">آئیے آپ کی فصلوں کو صحت مند اور آپ کے فارم کو خوشحال رکھیں۔</string>
+    <string name="humidity">نمی</string>
+    <string name="wind">ہوا</string>
+    <string name="agro_news">زرعی خبریں</string>
+    <string name="latest_updates">تازہ ترین اپ ڈیٹس</string>
+    <string name="agro_tools">زرعی اوزار</string>
+    <string name="useful_tools">مفید اوزار</string>
+    <string name="crop_health_overview">فصل کی صحت کا جائزہ</string>
+    <string name="check_health_status">صحت کی حالت چیک کریں</string>
+    <string name="check_now">ابھی چیک کریں ></string>
+
+    <!-- Diagnose Screen -->
+    <string name="diagnose_crop">فصل کی تشخیص</string>
+    <string name="diagnose_subtitle">اپنی فصل کا انتخاب کریں اور بیماری کا پتہ لگانے اور ماہرانہ مشورہ حاصل کرنے کے لیے ایک واضح تصویر لیں۔</string>
+    <string name="select_your_crop">اپنی فصل کا انتخاب کریں</string>
+    <string name="upload_image">تصویر اپ لوڈ کریں</string>
+    <string name="upload_subtitle">درست تشخیص کے لیے گیلری سے تصویر منتخب کریں یا نئی تصویر لیں۔</string>
+    <string name="gallery">گیلری</string>
+    <string name="pick_from_storage">اسٹوریج سے منتخب کریں</string>
+    <string name="capture">تصویر لیں۔</string>
+    <string name="use_your_camera">اپنا کیمرہ استعمال کریں</string>
+    <string name="crop_tomato">آم</string>
+    <string name="crop_orange">مالٹا</string>
+    <string name="crop_potato">آلو</string>
+    <string name="crop_corn">مکئی</string>
+    <string name="crop_rice">لیموں</string>
+    <string name="crop_apple">سیب</string>
+
+    <!-- Assistant Screen -->
+    <string name="smart_assistant">آپ کا ذہین پودوں کا معاون</string>
+    <string name="hello_emoji">ہیلو! 👋</string>
+
+    <!-- Profile Screen -->
+    <string name="manage_profile_subtitle">اپنے اکاؤنٹ اور ترجیحات کا نظم کریں</string>
+    <string name="edit_profile_subtitle">اپنی ذاتی معلومات کو اپ ڈیٹ کریں</string>
+    <string name="language_subtitle">اپنی پسندیدہ زبان منتخب کریں</string>
+    <string name="faq_subtitle_profile">عام سوالات کے جوابات تلاش کریں</string>
+    <string name="signout_subtitle">اپنے اکاؤنٹ سے سائن آؤٹ کریں</string>
+
+    <!-- FAQ Screen -->
+    <string name="common_diseases_faq">فصلوں کی عام بیماریوں کے متعلق سوالات</string>
+    <string name="faq_subtitle">پودوں کی عام بیماریوں اور ان کے انتظام کے بارے میں اکثر پوچھے جانے والے سوالات کے جوابات تلاش کریں</string>
+    <!-- Auth Screens -->
+    <string name="welcome">خوش آمدید </string>
+    <string name="back">دوبارہ!</string>
+    <string name="create">بنائیں </string>
+    <string name="your_account">اپنا اکاؤنٹ</string>
+    <string name="login_subtitle">اپنا سیشن جاری رکھنے اور اپنے پودوں کو صحت مند رکھنے کے لیے لاگ ان کریں۔</string>
+    <string name="signup_subtitle">ایگرو گارڈ میں شامل ہوں اور اپنے پودوں کی بہترین دیکھ بھال کریں۔</string>
+    <string name="email">ای میل</string>
+    <string name="password">پاس ورڈ</string>
+    <string name="forgot_password">پاس ورڈ بھول گئے؟</string>
+    <string name="login">لاگ ان کریں</string>
+    <string name="sign_up">سائن اپ کریں</string>
+    <string name="or">یا</string>
+    <string name="or_continue">یا اس کے ساتھ جاری رکھیں</string>
+    <string name="continue_google">گوگل کے ساتھ جاری رکھیں</string>
+    <string name="signup_google">گوگل کے ساتھ سائن اپ کریں</string>
+    <string name="dont_have_account">کیا اکاؤنٹ نہیں ہے؟ </string>
+    <string name="sign_up_arrow">سائن اپ کریں ←</string>
+    <string name="create_account">اکاؤنٹ بنائیں</string>
+    <string name="full_name">پورا نام</string>
+    <string name="already_have_account">کیا پہلے سے اکاؤنٹ ہے؟ </string>
+    <string name="login_arrow">لاگ ان کریں ←</string>
+
+    <!-- Result Screen -->
+    <string name="diagnosis_result">تشخیص کا نتیجہ</string>
+    <string name="analyzing_image">تصویر کا تجزیہ کیا جا رہا ہے…</string>
+    <string name="treatment_advice">علاج کا مشورہ</string>
+    <string name="fetching_advice">ماہرانہ مشورہ حاصل کیا جا رہا ہے…</string>
+    <string name="confidence_score">اعتماد کا سکور</string>
+    <string name="healthy_leaf">یہ پتا صحت مند ہے۔ کسی علاج کی ضرورت نہیں ہے۔</string>
+    <string name="analysis_failed">تجزیہ ناکام رہا</string>
+    <string name="upload_clear_image">نتائج کے لیے براہ کرم پودے کی واضح تصویر اپ لوڈ کریں</string>
+</resources>
